@@ -1,0 +1,2 @@
+$ repo init -u https://github.com/AOKP-i9100/platform_manifest.git -b jb
+$ repo sync
