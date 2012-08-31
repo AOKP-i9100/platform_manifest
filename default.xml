@@ -84,7 +84,7 @@
   <project path="external/eyes-free" name="platform/external/eyes-free" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="external/fdlibm" name="platform/external/fdlibm" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="external/flac" name="platform/external/flac" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
-  <project path="external/freetype" name="platform/external/freetype" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
+  <project path="external/freetype" name="AOKP/external_freetype" remote="aokp" revision="jb" />
   <project path="external/fsck_msdos" name="platform/external/fsck_msdos" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="external/ganymed-ssh2" name="platform/external/ganymed-ssh2" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="external/gcc-demangle" name="platform/external/gcc-demangle" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
@@ -330,7 +330,7 @@
 
   <project path="platform_manifest" name="AOKP-i9100/platform_manifest" remote="i9100" revision="jb" />
 
-  <project path="vendor/tmobile/apps/ThemeChooser" name="themes-platform-vendor-tmobile-apps-ThemeChooser" remote="cm" revision="jellybean" />
+  <project path="vendor/tmobile/apps/ThemeChooser" name="AOKP/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="aokp" revision="jb" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="jellybean" />
   <project path="vendor/tmobile/providers/ThemeManager" name="android_vendor_tmobile_providers_ThemeManager" remote="cm" revision="jellybean" />
   <project path="vendor/tmobile/products/themes" name="android_vendor_tmobile_products_themes" remote="cm" revision="jellybean" />
